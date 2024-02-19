@@ -1,1 +1,1 @@
-# authentication-1
+Full Stack Developer with expertise in HTML, CSS, JavaScript, JSON, and MongoDB. Specialized in crafting secure and intuitive login authentication systems, integrating front-end and back-end components. Proficient in leveraging MongoDB for efficient data storage and retrieval in web applications.
